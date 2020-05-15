@@ -1,0 +1,2 @@
+# Flight-booking-form-layout
+First and foremost, I took the bootstrap file to make it responsive It also has three radio buttons In CSS I took web kit-calendar-picker-indicator to insert the calendar in the booking form and user can select the date form the calendar  It has custom select option for the user to select the passenger  User can also select the suitable classes for them like economic class and business class in the form There is one button in the form which has hover on it.
